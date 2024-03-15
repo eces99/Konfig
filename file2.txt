@@ -1,2 +1,6 @@
 this is file 2
+<<<<<<< HEAD
 more changes
+=======
+many more changes
+>>>>>>> feature1
