@@ -1,2 +1,6 @@
 new file in remote
+<<<<<<< HEAD
 new changes here
+=======
+new changes on remote
+>>>>>>> d4c4b49f6e65c3da1a3a8d92481cc077fc82773b
