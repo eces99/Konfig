@@ -1,2 +1,6 @@
 this is a new file in local repo
+<<<<<<< HEAD
 some changes
+=======
+csome changes for feature1
+>>>>>>> 6f0caa00a73c77f4e00a543e26f8310c3b18c5e6
